@@ -1,0 +1,7 @@
+{
+  "secret": "5643534hgfddghdfhfg54643563456345hfghdfgh",
+  "mongodb": "mongodb://localhost:27017/test-poc",
+  "jwt_expiretime": 36000,
+  "weathetURL": "https://samples.openweathermap.org/data/2.5/weather",
+  "weatherAppID": "b6907d289e10d714a6e88b30761fae22"
+}
