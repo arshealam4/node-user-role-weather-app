@@ -21,5 +21,7 @@
 
 ## Quick Start
 
+* git clone https://github.com/arshealam4/node-user-role-weather-app.git
+* cd node-user-role-weather-app
 * npm install
 * npm run dev
